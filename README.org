@@ -7,6 +7,12 @@
 #+OPTIONS: author:nil ^:{}
 # Copyright (c) 2014-2021 OpenFOAM Foundation.
 
+* Note
+  This is a fork of the original OpenFOAM ThirdParty repository used to build
+  the code in the OpenFOAM-ktgf respository in this organization. No changes 
+  were made to the rest of the content and this repository was created to
+  preserve the dependencies.
+
 * Description
   Scripts for building third-party packages.
 * [[https://openfoam.org/download/source/third-party-software/][Download and installation instructions]]
